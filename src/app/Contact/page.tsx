@@ -15,8 +15,8 @@ export default function Contact() {
                 Contact Us
               </h2>
               <p className="mx-auto max-w-[700px] text-gray-500 md:text-xl dark:text-gray-400">
-                We'd love to hear from you. Send us a message and we'll respond
-                as soon as possible.
+                We&apos;d love to hear from you. Send us a message and
+                we&apos;ll respond as soon as possible.
               </p>
               <div className="flex flex-col space-y-4 md:space-y-6">
                 <Input
